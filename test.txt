@@ -1,3 +1,4 @@
 test texte
 MODIF SUR LA BRANCHE TEST 1
 LALALALALA
+Conflit résolu
